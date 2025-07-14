@@ -1,8 +1,8 @@
 function Home() {
   return (
     <div>
-      <h1>Welcome to the Home Page</h1>
-      <p>This is the home page of our application.</p>
+      <h1>Seja bem vindoa nossa Home Page</h1>
+      <p>Esta é a página principal da aplicação.</p>
       <p>Nova versão da página em tempo real</p>
     </div>
   );
